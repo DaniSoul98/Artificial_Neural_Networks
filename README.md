@@ -1,5 +1,4 @@
 # Artificial_Neural_Networks
-Artificial Neural Networks
 
 1- ANN: backpropagation in feedforward multi-layer networks and Bayesian Inference of Network hyperparameters
 
