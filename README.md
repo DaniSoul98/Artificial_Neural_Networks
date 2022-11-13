@@ -2,7 +2,7 @@
 
 1- ANN: backpropagation in feedforward multi-layer networks and Bayesian Inference of Network hyperparameters
 
-2- RNN and LSTM used for Time-Series prediction
+2- Hopfield networks, RNN and LSTM used for Time-Series prediction
 
 3- Deep Feature learning: PCA, stacked AutoEncoders, CNN
 
